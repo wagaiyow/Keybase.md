@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am wogaiyo on github.
+  * I am wogaiyo (https://keybase.io/wogaiyo) on keybase.
+  * I have a public key ASCXDdtBDOLuVl-uQnIhfteQYQ6MX_5IWcDlghgw-wr_4wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120970ddb410ce2ee565fae4272217ed790610e8c5ffe4859c0e5821830fb0affe30a",
+      "host": "keybase.io",
+      "kid": "0120970ddb410ce2ee565fae4272217ed790610e8c5ffe4859c0e5821830fb0affe30a",
+      "uid": "3673ef117c6a87ad168811fc97b99719",
+      "username": "wogaiyo"
+    },
+    "merkle_root": {
+      "ctime": 1568477760,
+      "hash": "f067e01cc57e4f5b7bb097ed622f0eb5e9ec241f8b473b4e035dfe759b7f8c4cbad1fe1053114bcda3050715be82d6629efe3bb53576eb4f2be760ef8e09a3cf",
+      "hash_meta": "36beae93e1936f3460408c81a54af5d5b43f9fe7cb8c2bdddd2410f04e581995",
+      "seqno": 7328784
+    },
+    "service": {
+      "entropy": "04+pPvVQfg4ZVK2mwg4tZEQH",
+      "name": "github",
+      "username": "wogaiyo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568477771,
+  "expire_in": 504576000,
+  "prev": "54c037d7811f6a95bd2476667331704e0adf50b7b59bd778f6461ae67015dc2f",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASCXDdtBDOLuVl-uQnIhfteQYQ6MX_5IWcDlghgw-wr_4wo](https://keybase.io/wogaiyo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglw3bQQzi7lZfrkJyIX7XkGEOjF/+SFnA5YIYMPsK/+MKp3BheWxvYWTESpcCDsQgVMA314EfapW9JHZmczFwTgrfULe1m9d49kYa5nAV3C/EIElTyw5zC27ud2E/8nnIKDR2GIVzyCAMRjrPm0KLbGS+AgHCo3NpZ8RA3djCE2CQeH8UsFLMrwsi01Kee1ajSCu2v6VttDS+yPU5Obcak2gWjGpKVMF5v4dcNVwgY/Atbw1fJRLkcM2qBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMaYdiGnOWNsVuC597rP2WujrGhdL0L2ux86LrKTcjylo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/wogaiyo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id wogaiyo
+```
